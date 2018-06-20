@@ -1,0 +1,26 @@
+depend: [Citizens]
+main: com.illumenmc.rpg.Main
+name: IllumenMCRPG
+author: Carrasp
+version: 0.5
+description: Pre-Alpha Build Of IllumenMCRPG
+commands:
+  fireball:
+  profile:
+  weaponshop:
+  cc:
+  gm:
+  t:
+  accept:
+  party:
+  testlist:
+  admin:
+  questlog:
+  questtest:
+  bandage:
+  cm:
+  race:
+  quest:
+  guild:
+  guildlist:
+  skill:
