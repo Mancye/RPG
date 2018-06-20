@@ -18,7 +18,7 @@ import com.illumenmc.weapons.WeaponShop;
 public class GatherTenLogs implements Listener {
 	//This is a test comment commit
 	private Main plugin;
-	
+	//Crazy idea
 	private int coinReward;
 	private String questName;
 	private double xpReward;
